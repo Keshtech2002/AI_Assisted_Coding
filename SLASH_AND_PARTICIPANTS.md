@@ -23,6 +23,3 @@ This document explains common slash commands (e.g., `/init`, `/todo`, `/test`) a
    - `/explain file=path`: assistant opens and explains a file.
 
 5. Examples and templates (see `examples/`)
-
----
-Want me to add more example slash commands or wire up a simple command runner script? I can scaffold an `examples/` folder next.

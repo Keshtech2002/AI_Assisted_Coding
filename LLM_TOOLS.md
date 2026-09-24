@@ -65,6 +65,3 @@ git apply suggestion.patch
 
 ## References
 - Link vendor docs when available (Anthropic, Google Cloud, and OpenClaw project page).
-
----
-If you want, I can populate a sample `claude.md`, add real example prompts, or wire a tiny local runner to call a mock CLI for demonstration. Which would you like next?

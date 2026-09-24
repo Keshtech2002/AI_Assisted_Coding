@@ -61,6 +61,3 @@ git apply suggestion.patch
 
 ## Safety and verification
 - Always review, run tests, and scan for secrets before accepting remote suggestions.
-
----
-I can make an `examples/coderabbit/` folder with sample CLI commands and a short demo script — should I add that now?
